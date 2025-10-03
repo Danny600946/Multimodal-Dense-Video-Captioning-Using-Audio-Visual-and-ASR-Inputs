@@ -4,6 +4,7 @@ This dissertation explores enhancing dense video captioning by integrating audio
 Details For Model and Data Downloads:
 
 Fine Tuning and Evaluation (Fine Tuning and Evaluation Folder):
+
 Requires the t5-base model to be downloaded to the t5-base model folder. All files from this code repo link should be placed in the t5-base folder (Can be found at https://huggingface.co/google-t5/t5-base/tree/main)
 
 Requires the vid2seq checkpoints to be downloaded from the VidChapters git and be placed in the vid2seq folder. Found under 'Model Checkpoints' and called 'HowTo100M + VidChapters-7M + YouCook2' (Found at https://github.com/antoyang/VidChapters)
@@ -17,6 +18,7 @@ Once these requirements are satisfied the reproducibility section of my disserta
 It should be noted, due to the upload limitations the download and extraction files for the audio features will have to be run as detailed in the reproducibility section of my dissertation report.
 
 Demo (Demo Folder):
+
 Requires the t5 model to be downloaded to TRANSFORMER_CAHCE/t5-base. All files form this code repo link should be place in the t5-base folder (Can be found at https://huggingface.co/google-t5/t5-base/tree/main)
 
 Requires Whisper-Large-V2 to be downloaded into the MODEL_DIR folder. This should happen automatically when running demo_asr.py (Refer to reproducibility section in Dissertation report)
