@@ -1,5 +1,5 @@
 # Multimodal-Dense-Video-Captioning-Using-Audio-Visual-and-ASR-Inputs
-This dissertation explores enhancing dense video captioning by integrating audio into the Vid2Seq pipeline. By leveraging multimodal data, the project aims to improve caption accuracy and context, investigating the potential of audio-visual fusion for richer, more informative video descriptions.
+This dissertation explores enhancing dense video captioning by integrating audio into the Vid2Seq pipeline. By leveraging multimodal data, the project aims to improve caption accuracy and context, investigating the potential of audio-visual fusion for richer, more informative video descriptions. 
 
 Details For Model and Data Downloads:
 
@@ -28,3 +28,5 @@ Requires Vit-L-14 to be downloaded into the MODEL_DIR folder. This should happen
 Note as this is the demo the checkpoints can be chosen freely but should be placed in MODEL_DIR/vid2seq (Checkpoints are required) (From https://github.com/antoyang/VidChapters)
 
 Once these requirements are satisfied the reproducibility section of my dissertation report can be followed.
+
+The dissertation report outlines prior research, implementation strategy, usage instructions, and performance metrics.
