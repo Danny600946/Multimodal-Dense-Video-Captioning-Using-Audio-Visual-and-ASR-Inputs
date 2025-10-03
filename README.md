@@ -25,7 +25,7 @@ Requires Whisper-Large-V2 to be downloaded into the MODEL_DIR folder. This shoul
 
 Requires Vit-L-14 to be downloaded into the MODEL_DIR folder. This should happen automatically when running demo_vidseq.py (Refer to reproducibility section in Dissertation report)
 
-Note as this is the demo the checkpoints can be chosen freely but should be placed in MODEL_DIR/vid2seq (Checkpoints are required) (From https://github.com/antoyang/VidChapters)
+Note: Since this is the demo, you can choose any Vid2Seq checkpoints. However, they must be placed in MODEL_DIR/vid2seq (checkpoints are required). Pretrained checkpoints can be downloaded from VidChapters (https://github.com/antoyang/VidChapters)
 
 Once these requirements are satisfied the reproducibility section of my dissertation report can be followed.
 
